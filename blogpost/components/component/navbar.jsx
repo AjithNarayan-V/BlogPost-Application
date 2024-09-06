@@ -97,7 +97,7 @@ export default Navbar;
   return (
     <img
       {...props}
-      src="@/public/menu.svg"
+      src="./menu.svg"
       alt="Menu Icon"
       width="24"
       height="24"
