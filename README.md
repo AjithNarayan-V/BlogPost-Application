@@ -84,3 +84,8 @@ npm run dev
 
 ### Access the Platform:
 The platform should be accessible at `http://localhost:3000` for the frontend and `http://localhost:8747` for the backend API.
+
+
+### Application Video and Image:
+`https://drive.google.com/drive/folders/1Dd4KeT8WzjoZmDkkNGCLmIfeYaYx_4fJ?usp=sharing`
+
