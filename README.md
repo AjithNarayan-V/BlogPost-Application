@@ -4,6 +4,33 @@
 ## Description
 This project is a fully functional blog platform designed for users to create, view, and delete blog posts seamlessly. Built with a focus on modern web development practices, the platform separates the frontend and backend for a modular architecture. It leverages popular frameworks and tools, ensuring a smooth development experience and an intuitive user interface.
 
+### Application Video:
+`https://drive.google.com/drive/folders/1Dd4KeT8WzjoZmDkkNGCLmIfeYaYx_4fJ?usp=sharing`
+
+<video controls src="blogpost-video.mp4" title="Title"></video>
+
+### Application Images:
+- **Home page**
+![alt text](image.png)
+![alt text](image-1.png)
+- **Create Post Page**
+![alt text](image-2.png)
+![alt text](image-3.png)
+
+- **View Post Page**
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
+- **delete confirmation**
+![alt text](image-7.png)
+- **About Page**
+![alt text](image-8.png)
+![alt text](image-9.png)
+- **contact us page**
+![alt text](image-10.png)
+
+
+
 ## Tech Stack
 
 ### Frontend:
@@ -26,8 +53,6 @@ This project is a fully functional blog platform designed for users to create, v
   - `POST /posts`: Allows users to create a new blog post.
   - `DELETE /posts/:id`: Deletes a blog post by its ID.
 
-### Database:
-- **SQLite**: A lightweight, file-based relational database that is perfect for small projects due to its ease of setup and low maintenance. The platform uses an SQLite database to store blog post data, with fields for `id`, `title`, and `content`.
 
 ## Features
 
@@ -46,11 +71,12 @@ This project is a fully functional blog platform designed for users to create, v
 - **Confirmation Modal**: A confirmation dialog appears before deleting a post, preventing accidental deletions.
 - **Post Editing**: Users can edit existing posts to update the title or content if needed, enhancing the overall usability of the platform.
 
+
 ## Setup Instructions
 
 ### Clone the Repository:
 ```bash
-git clone https://github.com/AjithNarayan-V/BlogPost-Application.git
+git clone https://github.com/yourusername/simple-blog-platform.git
 ```
 
 ### Navigate to the Project Directory:
@@ -84,8 +110,3 @@ npm run dev
 
 ### Access the Platform:
 The platform should be accessible at `http://localhost:3000` for the frontend and `http://localhost:8747` for the backend API.
-
-
-### Application Video and Image:
-`https://drive.google.com/drive/folders/1Dd4KeT8WzjoZmDkkNGCLmIfeYaYx_4fJ?usp=sharing`
-
