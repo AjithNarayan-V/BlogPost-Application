@@ -1,6 +1,7 @@
 
 # Simple Blog Platform
-
+## webpage link: 
+https://blog-post-com.netlify.app/
 ## Description
 This project is a fully functional blog platform designed for users to create, view, and delete blog posts seamlessly. Built with a focus on modern web development practices, the platform separates the frontend and backend for a modular architecture. It leverages popular frameworks and tools, ensuring a smooth development experience and an intuitive user interface.
 
